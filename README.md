@@ -14,4 +14,4 @@ Table of Contents:
 - Portfolio Paper: Written paper demonstrating each learning goal achieved from courses and projects
 - Portfolio Milestone Presentation Slides: Slides of Portfolio Milestone Presentation summarizing written paper
 - Rayanna Harduarsingh Resume: Current professional resume
-- Video Presentation of Written Paper can be access here: https://youtu.be/7nkBc4RqfwA
+- Video Presentation of Written Paper can be accessed here: https://youtu.be/7nkBc4RqfwA
