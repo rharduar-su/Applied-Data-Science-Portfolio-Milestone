@@ -1,8 +1,9 @@
 # Applied-Data-Science-Portfolio-Milestone
 Welcome to my Portfolio Milestone Requirement for the Master of Science in Applied Data Science at Syracuse University! 👩🏽‍💻🍊
-Author: Rayanna Harduarsingh
-SUID: 224452222
-Email: rharduar@syr.edu
+
+######Author: Rayanna Harduarsingh
+######SUID: 224452222
+######Email: rharduar@syr.edu
 
 Table of Contents:
 
